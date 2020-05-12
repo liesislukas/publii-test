@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Little SaaS, Inc.",
+    "description": "",
+    "home_page_url": "https://liesislukas.github.io/publii-test",
+    "feed_url": "https://liesislukas.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Little SaaS, Inc."
+    },
+    "items": [
+        {
+            "id": "https://liesislukas.github.io/publii-test/some-other-post.html",
+            "url": "https://liesislukas.github.io/publii-test/some-other-post.html",
+            "title": "some other post",
+            "summary": "blah",
+            "content_html": "blah",
+            "author": {
+                "name": "Little SaaS, Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-12T10:55:17+03:00",
+            "date_modified": "2020-05-12T10:55:17+03:00"
+        },
+        {
+            "id": "https://liesislukas.github.io/publii-test/some-post.html",
+            "url": "https://liesislukas.github.io/publii-test/some-post.html",
+            "title": "Some post",
+            "summary": "Lorem ipsum dolar atem",
+            "content_html": "Lorem ipsum dolar atem",
+            "author": {
+                "name": "Little SaaS, Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-05-02T14:27:57+03:00",
+            "date_modified": "2020-05-02T14:27:57+03:00"
+        }
+    ]
+}

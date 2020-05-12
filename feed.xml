@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Little SaaS, Inc.</title>
+    <link href="https://liesislukas.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://liesislukas.github.io/publii-test" />
+    <updated>2020-05-12T12:08:30+03:00</updated>
+    <author>
+        <name>Little SaaS, Inc.</name>
+    </author>
+    <id>https://liesislukas.github.io/publii-test</id>
+
+    <entry>
+        <title>some other post</title>
+        <author>
+            <name>Little SaaS, Inc.</name>
+        </author>
+        <link href="https://liesislukas.github.io/publii-test/some-other-post.html"/>
+        <id>https://liesislukas.github.io/publii-test/some-other-post.html</id>
+
+        <updated>2020-05-12T10:55:17+03:00</updated>
+            <summary>
+                <![CDATA[
+                    blah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                blah
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Some post</title>
+        <author>
+            <name>Little SaaS, Inc.</name>
+        </author>
+        <link href="https://liesislukas.github.io/publii-test/some-post.html"/>
+        <id>https://liesislukas.github.io/publii-test/some-post.html</id>
+
+        <updated>2020-05-02T14:27:57+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem ipsum dolar atem
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Lorem ipsum dolar atem
+            ]]>
+        </content>
+    </entry>
+</feed>
